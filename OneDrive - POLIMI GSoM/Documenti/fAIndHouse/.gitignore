@@ -1,0 +1,12 @@
+# Ignore Windows system folders
+AppData/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Searches/
+Videos/
